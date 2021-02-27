@@ -1,0 +1,7 @@
+name: EGSplipe
+main: me.Bokum.ESP.Main
+version: 1.00
+description: bokum's plugin!
+commands:
+  esp:
+    description: esp
