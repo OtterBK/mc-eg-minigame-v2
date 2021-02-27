@@ -1,0 +1,7 @@
+name: MineOfBattle3
+main: me.Bokum.MOB.Main
+version: 0.01
+description: bokum's plugin!
+commands:
+  mob:
+    description: Main Command
