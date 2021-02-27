@@ -1,0 +1,7 @@
+name: Catcher
+main: me.Bokum.Catcher.Main
+version: 1.00
+description: bokum's plugin!
+commands:
+  ecc:
+    description: ECC
