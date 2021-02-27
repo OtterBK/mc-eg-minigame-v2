@@ -1,0 +1,7 @@
+name: KillTheTarget
+main: me.Bokum.KTT.Main
+version: 1.00
+description: bokum's plugin!
+commands:
+  ktt:
+    description: ktt
