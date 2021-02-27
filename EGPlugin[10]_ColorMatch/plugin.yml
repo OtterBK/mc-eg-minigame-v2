@@ -1,0 +1,7 @@
+name: EGColorMatch
+main: me.Bokum.ECM.Main
+version: 1.00
+description: bokum's plugin!
+commands:
+  ecm:
+    description: ecm
