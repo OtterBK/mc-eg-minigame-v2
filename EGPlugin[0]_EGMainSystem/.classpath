@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="D:/Jaeuk Folder/자바/플러그인/Vault.jar"/>
+	<classpathentry kind="lib" path="D:/Jaeuk Folder/자바/메인시스템 로드 플러그인/[자작][완성]CatchTheMind.jar"/>
+	<classpathentry kind="lib" path="D:/Jaeuk Folder/자바/메인시스템 로드 플러그인/[자작][완성]EGColorMatch.jar"/>
+	<classpathentry kind="lib" path="D:/Jaeuk Folder/자바/메인시스템 로드 플러그인/[자작][완성]FirstHit.jar"/>
+	<classpathentry kind="lib" path="D:/Jaeuk Folder/자바/메인시스템 로드 플러그인/[자작][완성]KillTheTarget.jar"/>
+	<classpathentry kind="lib" path="D:/Jaeuk Folder/자바/메인시스템 로드 플러그인/[자작][완성]Spleef.jar"/>
+	<classpathentry kind="lib" path="D:/Jaeuk Folder/자바/메인시스템 로드 플러그인/[자작][완성]TeamRandomBattle.jar"/>
+	<classpathentry kind="lib" path="D:/Jaeuk Folder/자바/메인시스템 로드 플러그인/[자작]EGCatcher.jar"/>
+	<classpathentry kind="lib" path="D:/Jaeuk Folder/자바/메인시스템 로드 플러그인/[자작]EGHungergame.jar"/>
+	<classpathentry kind="lib" path="D:/Jaeuk Folder/자바/메인시스템 로드 플러그인/[자작]FindTheMurder.jar"/>
+	<classpathentry kind="lib" path="D:/Jaeuk Folder/자바/메인시스템 로드 플러그인/[자작]MineOfBattle3.jar"/>
+	<classpathentry kind="lib" path="D:/Jaeuk Folder/자바/메인시스템 로드 플러그인/[자작]ParkourRacingjar.jar"/>
+	<classpathentry kind="lib" path="D:/Jaeuk Folder/자바/메인시스템 로드 플러그인/[자작]TeamRandomBattle.jar"/>
+	<classpathentry kind="lib" path="D:/Jaeuk Folder/자바/메인시스템 로드 플러그인/[자작]BlockHunt.jar"/>
+	<classpathentry kind="lib" path="D:/Jaeuk Folder/자바/메인시스템 로드 플러그인/[자작][완성]EGWarofGod.jar"/>
+	<classpathentry kind="lib" path="D:/Jaeuk Folder/자바/메인시스템 로드 플러그인/[자작][완성]DefenseTheCore.jar"/>
+	<classpathentry kind="lib" path="D:/Jaeuk Folder/자바/메인시스템 로드 플러그인/[자작]SimpleMinigame.jar"/>
+	<classpathentry kind="lib" path="C:/Users/wjswo/Desktop/Games/마크 개발/버킷/1.5.2/craftbukkit.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

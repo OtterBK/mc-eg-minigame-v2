@@ -1,0 +1,19 @@
+name: EGM
+main: me.Bokum.EGM.Main
+version: 1.00
+description: bokum's plugin!
+commands:
+  egs:
+    description: EG server Main System Command
+  확성기:
+    description: Allvoice Command
+  문의:
+    description: SendResponse Command
+  포인트:
+    description: Point Command
+  꺼내줘:
+    description: Teleport up Command
+  채팅방:
+    description: Chat channel Command
+  짓걸이렴:
+    description: disable chat    
