@@ -1,0 +1,7 @@
+name: SimpleMinigame
+main: me.Bokum.SMG.Main
+version: 1.00
+description: bokum's plugin!
+commands:
+  smg:
+    description: SMG
