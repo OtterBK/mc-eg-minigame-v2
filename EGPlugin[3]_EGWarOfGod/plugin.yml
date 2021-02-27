@@ -1,0 +1,9 @@
+name: EGWarOfGod
+main: me.Bokum.EWG.Main
+version: 0.45
+description: bokum's plugin!
+commands:
+  ewg:
+    description: base
+  wg:
+    description: base
