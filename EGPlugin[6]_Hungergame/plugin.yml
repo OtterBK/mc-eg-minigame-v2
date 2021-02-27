@@ -1,0 +1,7 @@
+name: EGhungergame
+main: me.Bokum.Hungergame.Main
+version: 0.56
+description: bokum's plugin!
+commands:
+  egh:
+    description: egh
