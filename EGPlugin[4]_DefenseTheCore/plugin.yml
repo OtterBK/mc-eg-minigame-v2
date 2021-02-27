@@ -1,0 +1,7 @@
+name: DefenseTheCore
+main: me.Bokum.DTC.Main
+version: 0.90
+description: bokum's plugin!
+commands:
+  dtc:
+    description: ftm
