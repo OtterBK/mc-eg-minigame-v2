@@ -1,0 +1,7 @@
+name: TeamRandomBattle
+main: me.Bokum.TRB.Main
+version: 0.46
+description: bokum's plugin!
+commands:
+  trb:
+    description: base command
