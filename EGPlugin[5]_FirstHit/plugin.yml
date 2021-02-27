@@ -1,0 +1,7 @@
+name: FirstHit
+main: me.Bokum.FirstHit.Main
+version: 0.12
+description: bokum's plugin!
+commands:
+  fh:
+    description: fh
