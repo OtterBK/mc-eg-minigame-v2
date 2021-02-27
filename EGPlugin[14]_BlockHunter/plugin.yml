@@ -1,0 +1,7 @@
+name: BlockHunter
+main: me.Bokum.BlockHunter.Main
+version: 1.00
+description: bokum's plugin!
+commands:
+  ebh:
+    description: EG server Main System Command
