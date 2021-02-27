@@ -1,0 +1,7 @@
+name: Parkour
+main: me.Bokum.Parkour.Main
+version: 1.00
+description: bokum's plugin!
+commands:
+  pkr:
+    description: pkr
