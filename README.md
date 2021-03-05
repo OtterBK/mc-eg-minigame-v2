@@ -79,3 +79,10 @@ ___
 
 <br>
 
+####  📥 플러그인 다운로드
+👉 [구글 드라이브](https://drive.google.com/file/d/1s4_ec3zgM-zLMPKHNWvs7VfiNEVdVGho/view?usp=sharing)
+
+#### 참조 API
+Citizens - https://dev.bukkit.org/projects/citizens
+Effectlib - https://dev.bukkit.org/projects/effectlib
+
