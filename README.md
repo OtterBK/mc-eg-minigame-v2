@@ -16,7 +16,7 @@
 <br>
 
 
-### ⚠ ***더 이상 업데이트 되지 않습니다.*** <br> `EG MINIGAME 시즌3` 플러그인을 사용하세요! <br> 👉 [EG MINIGAME SEASON 3](https://github.com/OtterBK/EG_MINIGAME_3)
+### ⚠ ***더 이상 업데이트 되지 않습니다.*** <br> `EG MINIGAME 시즌3` 플러그인을 사용하세요! <br> 👉 [EG MINIGAME SEASON 3](https://github.com/OtterBK/mc-eg-minigame-v3)
 
 
 ___
